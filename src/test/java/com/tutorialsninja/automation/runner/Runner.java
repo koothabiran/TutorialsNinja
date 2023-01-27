@@ -11,10 +11,9 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 		
 		plugin = {"pretty", "html:target/cucumber_Report/cucumber.html"},
-		features= {"classpath:FeatureFiles/Register.feature"},
-				
-		glue= {"classpath:com.tutorialsninja.automation.StepDefinitions"},
-		tags="@Register"
+		features= {"classpath:FeatureFiles/Register.feature","classpath:FeatureFiles/Login.feature"},		
+		glue= {"classpath:com.tutorialsninja.automation.StepDefinitions"}
+		
 		  
 		
 		
