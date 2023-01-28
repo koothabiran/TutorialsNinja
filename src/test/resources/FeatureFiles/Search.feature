@@ -4,7 +4,7 @@ Feature:  Search functionality Scenarios
 Scenario: Verify wheather user can able to search the product or not
   
   Given Launch the application and provided the application url
-  When  I search the product "Samsung Syncmaster 941BW" 
+  When  I search the product "HP LP3065" 
   Then I should see the search product 
   
   @Search @Two
