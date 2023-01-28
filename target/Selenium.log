@@ -221,3 +221,143 @@
 2023-01-27 16:52:43 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started866370634
 2023-01-27 16:52:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify user can Register duplicated account or not
 2023-01-27 16:52:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-27 17:04:39 [INFO ] [Hooks] - [setUp] Scenario Started: Verify User can able to login the application with valid credentials
+2023-01-27 17:04:39 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-27 17:04:48 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1863557065
+2023-01-27 17:05:04 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify User can able to login the application with valid credentials
+2023-01-27 17:05:04 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-27 17:05:04 [INFO ] [Hooks] - [setUp] Scenario Started: Verify user can able to login the application with Invalid credentials
+2023-01-27 17:05:04 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-27 17:05:08 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1659452474
+2023-01-27 17:05:29 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify user can able to login the application with Invalid credentials
+2023-01-27 17:05:29 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-27 17:05:29 [INFO ] [Hooks] - [setUp] Scenario Started: Verify user can able to login the application without providing any credentials
+2023-01-27 17:05:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-27 17:05:31 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1254649194
+2023-01-27 17:05:51 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify user can able to login the application without providing any credentials
+2023-01-27 17:05:51 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-27 17:05:51 [INFO ] [Hooks] - [setUp] Scenario Started: Verify User can able to provide all the valid datas into the Respective  Input fields
+2023-01-27 17:05:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-27 17:05:53 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started203924386
+2023-01-27 17:06:01 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify User can able to provide all the valid datas into the Respective  Input fields
+2023-01-27 17:06:01 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-27 17:06:01 [INFO ] [Hooks] - [setUp] Scenario Started: Verify user can able to register the accound without providing any details
+2023-01-27 17:06:01 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-27 17:06:04 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2130400175
+2023-01-27 17:06:10 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify user can able to register the accound without providing any details
+2023-01-27 17:06:10 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-27 17:06:10 [INFO ] [Hooks] - [setUp] Scenario Started: Verify user can Register duplicated account or not
+2023-01-27 17:06:10 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-27 17:06:13 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started925672150
+2023-01-27 17:06:19 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify user can Register duplicated account or not
+2023-01-27 17:06:19 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-27 17:10:37 [INFO ] [Hooks] - [setUp] Scenario Started: Verify User can able to login the application with valid credentials
+2023-01-27 17:10:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-27 17:10:40 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1261257916
+2023-01-27 17:10:46 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify User can able to login the application with valid credentials
+2023-01-27 17:10:46 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-27 17:10:47 [INFO ] [Hooks] - [setUp] Scenario Started: Verify user can able to login the application with Invalid credentials
+2023-01-27 17:10:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-27 17:10:50 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1279852178
+2023-01-27 17:10:54 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify user can able to login the application with Invalid credentials
+2023-01-27 17:10:54 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-27 17:10:55 [INFO ] [Hooks] - [setUp] Scenario Started: Verify user can able to login the application without providing any credentials
+2023-01-27 17:10:55 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-27 17:10:57 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1172450799
+2023-01-27 17:11:03 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify user can able to login the application without providing any credentials
+2023-01-27 17:11:03 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-27 17:11:03 [INFO ] [Hooks] - [setUp] Scenario Started: Verify User can able to provide all the valid datas into the Respective  Input fields
+2023-01-27 17:11:03 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-27 17:11:05 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started33558975
+2023-01-27 17:11:11 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify User can able to provide all the valid datas into the Respective  Input fields
+2023-01-27 17:11:11 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-27 17:11:11 [INFO ] [Hooks] - [setUp] Scenario Started: Verify user can able to register the accound without providing any details
+2023-01-27 17:11:11 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-27 17:11:14 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started615830852
+2023-01-27 17:11:19 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify user can able to register the accound without providing any details
+2023-01-27 17:11:19 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-27 17:11:19 [INFO ] [Hooks] - [setUp] Scenario Started: Verify user can Register duplicated account or not
+2023-01-27 17:11:19 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-27 17:11:21 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started384752294
+2023-01-27 17:11:26 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify user can Register duplicated account or not
+2023-01-27 17:11:26 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-28 11:12:16 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user can able to search the product or not
+2023-01-28 11:12:17 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-28 11:12:46 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started860941277
+2023-01-28 11:12:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user can able to search the product or not
+2023-01-28 11:12:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2023-01-28 11:35:57 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user can able to search the product or not
+2023-01-28 11:35:57 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-28 11:36:05 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2008746677
+2023-01-28 11:36:10 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user can able to search the product or not
+2023-01-28 11:36:10 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-28 11:42:54 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user can able to search the product or not
+2023-01-28 11:42:54 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-28 11:42:57 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2008746677
+2023-01-28 11:43:04 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user can able to search the product or not
+2023-01-28 11:43:04 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-28 11:44:51 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user can able to search the product or not
+2023-01-28 11:44:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-28 11:44:55 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started871989809
+2023-01-28 11:45:00 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user can able to search the product or not
+2023-01-28 11:45:00 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-28 11:59:44 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user can get the Information about there is no Search results
+2023-01-28 11:59:44 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-28 11:59:46 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started653774328
+2023-01-28 11:59:52 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user can get the Information about there is no Search results
+2023-01-28 11:59:52 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2023-01-28 12:01:59 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user can get the Information about there is no Search results
+2023-01-28 12:01:59 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-28 12:02:03 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1757970371
+2023-01-28 12:02:07 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user can get the Information about there is no Search results
+2023-01-28 12:02:07 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-28 12:04:47 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user can able to search the product or not
+2023-01-28 12:04:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-28 12:04:50 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1433568941
+2023-01-28 12:04:54 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user can able to search the product or not
+2023-01-28 12:04:54 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-28 12:04:54 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user can get the Information about there is no Search results
+2023-01-28 12:04:54 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-28 12:04:55 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started427226423
+2023-01-28 12:04:59 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user can get the Information about there is no Search results
+2023-01-28 12:04:59 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-28 12:07:56 [INFO ] [Hooks] - [setUp] Scenario Started: Verify User can able to login the application with valid credentials
+2023-01-28 12:07:56 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-28 12:07:59 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started184642382
+2023-01-28 12:08:06 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify User can able to login the application with valid credentials
+2023-01-28 12:08:06 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-28 12:08:06 [INFO ] [Hooks] - [setUp] Scenario Started: Verify user can able to login the application with Invalid credentials
+2023-01-28 12:08:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-28 12:08:09 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2083106248
+2023-01-28 12:08:14 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify user can able to login the application with Invalid credentials
+2023-01-28 12:08:14 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-28 12:08:14 [INFO ] [Hooks] - [setUp] Scenario Started: Verify user can able to login the application without providing any credentials
+2023-01-28 12:08:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-28 12:08:16 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1519173630
+2023-01-28 12:08:21 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify user can able to login the application without providing any credentials
+2023-01-28 12:08:21 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-28 12:08:21 [INFO ] [Hooks] - [setUp] Scenario Started: Verify User can able to provide all the valid datas into the Respective  Input fields
+2023-01-28 12:08:21 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-28 12:08:23 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1145882513
+2023-01-28 12:08:29 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify User can able to provide all the valid datas into the Respective  Input fields
+2023-01-28 12:08:29 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-28 12:08:29 [INFO ] [Hooks] - [setUp] Scenario Started: Verify user can able to register the accound without providing any details
+2023-01-28 12:08:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-28 12:08:31 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started715534618
+2023-01-28 12:08:36 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify user can able to register the accound without providing any details
+2023-01-28 12:08:36 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-28 12:08:36 [INFO ] [Hooks] - [setUp] Scenario Started: Verify user can Register duplicated account or not
+2023-01-28 12:08:36 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-28 12:08:38 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1163189762
+2023-01-28 12:08:42 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify user can Register duplicated account or not
+2023-01-28 12:08:42 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-28 12:08:43 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user can able to search the product or not
+2023-01-28 12:08:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-28 12:08:45 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started747004588
+2023-01-28 12:08:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user can able to search the product or not
+2023-01-28 12:08:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-01-28 12:08:50 [INFO ] [Hooks] - [setUp] Scenario Started: Verify wheather user can get the Information about there is no Search results
+2023-01-28 12:08:50 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2023-01-28 12:08:52 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started9054826
+2023-01-28 12:08:56 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify wheather user can get the Information about there is no Search results
+2023-01-28 12:08:56 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED

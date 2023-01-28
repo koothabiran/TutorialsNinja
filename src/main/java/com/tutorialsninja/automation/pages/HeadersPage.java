@@ -24,5 +24,12 @@ public class HeadersPage {
 	@FindBy(linkText="Login")
 	public static WebElement Login;
 	
+	
+	@FindBy(name="search")
+	public static WebElement searchTextBox;
+	
+	@FindBy(css="button[type='button'][class$='btn-lg']")
+	public static WebElement SearchIcon;
+	
 
 }

@@ -7,12 +7,16 @@ import org.junit.runner.RunWith;
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
+
+
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		
 		plugin = {"pretty", "html:target/cucumber_Report/cucumber.html"},
-		features= {"classpath:FeatureFiles/Register.feature","classpath:FeatureFiles/Login.feature"},		
+		features= {"classpath:FeatureFiles/Search.feature","classpath:FeatureFiles/Login.feature","classpath:FeatureFiles/Register.feature"},		
 		glue= {"classpath:com.tutorialsninja.automation.StepDefinitions"}
+		
+		
 		
 		  
 		
